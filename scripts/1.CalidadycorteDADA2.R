@@ -60,4 +60,4 @@ out_Brasil <- filterAndTrim(fnFs_Brasil, filtFs_Brasil, fnRs_Brasil, filtRs_Bras
                        compress=TRUE, multithread=FALSE)
 head(out_Brasil)
 
-#Las carpetas "filtrados_Col" y "filtrados_Brasil" serán el input en el paso 2
+#Las carpetas "filtrados_Col" y "filtrados_Brasil" serán el input en el paso 2. Se pasaron del computador al clúster usando FileZilla
