@@ -33,6 +33,3 @@ Los análisis incluyen:
    - Bray-Curtis + PCoA
    - PERMANOVA (`adonis2`)
 
-# Resultados
-
-Gráficas
