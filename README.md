@@ -1,6 +1,6 @@
 # PRUEBA:Comparación de la composición bacteriana de dos ríos urbanos: Río Bogotá (Colombia) y Río Pinheiros (Brasil)
 
-**Autores:** Ariana Delgadillo, Sergio Sánchez, Nataly Rodríguez
+**Autores:** Ariana Delgadillo, Nataly Rodríguez Lugo y Sergio A. Sánchez León 
 
 **Institución:** Universidad del Rosario
 
@@ -9,10 +9,9 @@ del gen 16S rRNA.
 
 ## Contenido del repositorio
 
-- `scripts/`: Scripts en R para evaluar la calidad de las secuencias y cortarlas, R desde el clúster
-para seguir con el pipeline de DADA2 hasta obtener dos tablas de conteos luego de la asignación taxonómica,
-luego desde R se hace análisis de diversidad alfa, beta y abundancia diferencial.
-- `imagenes/`: Gráficos de los resultados de los análisis.
+- Scripts de: (1) DADA2 para evaluar la calidad de las secuencias y cortarlas, (2) el resto del pipeline de DADA2 en el clúster para obtener dos tablas de conteos luego de la asignación taxonómica,
+y (3) los análisis de diversidad alfa, beta y abundancia diferencial en R. Se encuentran en [scripts](https://github.com/natalyrl/Composicion-bacteriana-de-rios/tree/main/scripts)
+- Gráficos de los resultados de los análisis. Se encuentran en [imagenes](https://github.com/natalyrl/Composicion-bacteriana-de-rios/tree/main/imagenes)
 
 ## Descripción del análisis
 
