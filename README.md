@@ -25,9 +25,9 @@ Los datos provienen de bases de datos públicas:
 
 Los análisis incluyen:
 
-1. **Calidad de secuencias y corte** con paquetes de R `BiocManager` y `DADA2`.
+1. **Calidad de secuencias y corte** con paquetes `BiocManager` y `DADA2`.
 2. **Procesamiento de secuencias** con DADA2 desde el clúster.
-3. **Análisis de diversidad alfa, beta y comparación diferencial** con `phyloseq`, `ANCOMBC2` y `vegan`:
+3. **Análisis de diversidad alfa, beta y comparación diferencial** con paquetes `phyloseq`, `ANCOMBC2` y `vegan`:
    - Índices de Shannon y Simpson
    - Evaluación de géneros diferencialmente abundantes
    - Wilcoxon
