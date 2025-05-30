@@ -21,7 +21,7 @@ Los datos provienen de bases de datos públicas:
 - Río Bogotá: [ENA - PRJEB22915](https://www.ebi.ac.uk/ena/browser/view/PRJEB22915)
 - Río Pinheiros: [Zenodo Dataset](https://zenodo.org/records/1172783)
 
- *Nota*: Se tomaron solo seis pares de secuencias paired-end para cada río.
+ *Nota*: Se tomaron solo seis pares de secuencias para cada río.
 
 Los análisis incluyen:
 
