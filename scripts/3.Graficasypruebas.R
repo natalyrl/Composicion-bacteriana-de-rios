@@ -146,7 +146,7 @@ ANCOMBC_rios<- ancombc2(
   global      = TRUE,
   verbose     = TRUE)
 head(ANCOMBC_rios$res)
-View(ANCOMBC_rios$res)
+View(ANCOMBC_rios$res) #Solo significativo en el río Pinheiros
 sigRios <- subset(ANCOMBC_rios$res, diff_RioRío_Pinheiros)
 View(sigRios)
 View(Generos@tax_table)
